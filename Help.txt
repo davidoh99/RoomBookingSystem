@@ -1,0 +1,9 @@
+--User Guide--
+
+To use this program, you need to first login by going to File -> Login, or by pressing Ctrl+L.
+Insert your username and password into the appropriate text fields and use the login button.
+
+You will then be able to book a room. Choose the number of workspaces and breakout seats you would
+like to have. Then, choose the options for having a smartboard, whiteboard, scanner and printer.
+After doing this, click the "Book" button and the program will assign a room most suitable for 
+the options you chose.
